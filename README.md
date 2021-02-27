@@ -54,3 +54,13 @@ See [Publishing a NativeScript Android App in Google Play](https://docs.nativesc
 
 ### IOS
 See [Publishing a NativeScript iOS App in the App Store](https://docs.nativescript.org/angular/tooling/publishing/publishing-ios-apps) page of NativeScript Documentation
+
+# TODO's
+
+- [ ] Tests
+- [ ] Compatible versions
+- [ ] Code of conduct
+- [ ] Contributing guidelines
+- [ ] Issue templates
+- [ ] Pull request template
+- [ ] Configure Dependabot
