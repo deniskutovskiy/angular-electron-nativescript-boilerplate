@@ -12,7 +12,7 @@ cd your-project-name
 yarn
 ```
 
-2. Replace all "angular-electron-nativescript-boilerplate" and "angularElectronNativescriptBoilerplate" occurances in project files with your-project-name
+2. Replace all occurances of `angular-electron-nativescript-boilerplate` with `your-project-name` and all occurances of `angularElectronNativescriptBoilerplate` with `yourProjectName`.
 
 # Starting Development
 ## Web
